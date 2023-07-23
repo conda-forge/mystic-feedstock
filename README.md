@@ -1,11 +1,11 @@
-About mystic
-============
+About mystic-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mystic-feedstock/blob/main/LICENSE.txt)
 
 Home: mystic.rtfd.io
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mystic-feedstock/blob/main/LICENSE.txt)
 
 Summary: Highly-constrained non-convex optimization and uncertainty quantification
 
