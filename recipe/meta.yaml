@@ -1,5 +1,5 @@
 {% set name = "mystic" %}
-{% set version = "0.4.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mystic-{{ version }}.tar.gz
-  sha256: 04027c856f776b1724b18deab9dd222f0602c20b54dbaadbff7a255006cfadce
+  sha256: e758d02724bb57bcdf444366ebf5087c280ff3ed772fde40b92e43c805ac889d
 
 build:
   noarch: python
