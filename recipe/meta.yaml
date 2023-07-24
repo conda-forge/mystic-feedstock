@@ -16,14 +16,19 @@ build:
 
 requirements:
   host:
+    - cython >=0.29.30
     - pip
-    - python >=3.6
+    - python >=3.7
+    - setuptools >=42
   run:
-    - dill >=0.3.6
-    - klepto >=0.2.3
+    - dill >=0.3.7
+    - klepto >=0.2.4
     - mpmath >=0.19
     - numpy >=1.0
-    - python >=3.6
+    - pathos >=0.3.1
+    - pyina >=0.2.8
+    - python >=3.7
+    - scipy >=0.6.0
     - sympy >=0.6.7
 
 test:
