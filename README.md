@@ -3,7 +3,7 @@ About mystic-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mystic-feedstock/blob/main/LICENSE.txt)
 
-Home: mystic.rtfd.io
+Home: https://mystic.rtfd.io/
 
 Package license: BSD-3-Clause
 
