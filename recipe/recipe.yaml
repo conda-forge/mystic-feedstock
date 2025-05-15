@@ -44,7 +44,7 @@ about:
   summary: Highly-constrained non-convex optimization and uncertainty quantification
   license: BSD-3-Clause
   license_file: LICENSE
-  homepage: mystic.rtfd.io
+  homepage: https://mystic.rtfd.io
   repository: https://github.com/uqfoundation/mystic
 
 extra:
