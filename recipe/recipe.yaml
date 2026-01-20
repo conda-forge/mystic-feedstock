@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: mystic
-  version: 0.4.4
+  version: "0.4.5"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/mystic-${{ version }}.tar.gz
-  sha256: 9bdcc67f8a3d607d544b70ee062b682b0c9d84675bd5d5ac521cc86fd578e3fa
+  sha256: 94aa49173113bf55e33463afa0cbc9addf5565dc1cc50568e396d3d1ad80d977
 
 build:
   number: 0
